@@ -6,6 +6,6 @@ import slide3 from '../assets/slide3.jpg';
 </script>
 <template>
   <div class="text-black">
-    <img :src="slide2" />
+    
   </div>
 </template>
