@@ -7,7 +7,7 @@ const menuItems = [
           label: 'About Us',
           items: [
             { label: 'Introduction', url: '/intro' },
-            { label: 'Managing Committee', url: '/#/management' },
+            { label: 'Managing Committee', url: '/management' },
             { label: 'Admission Info', url: '/admissions' },
             { label: 'Courses Offered', url: '/courses' },
             { label: 'Other Info', url: '/info' }
